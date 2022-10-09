@@ -1,9 +1,3 @@
-# Fabric Example Mod
+This should hopefully one day let you break bedrock
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Thank you to fran for doing basically everything, but now we have to learn the code (Teach us pls fran 🥺)
